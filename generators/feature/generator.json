@@ -4,6 +4,7 @@
     {"type": "model"},
     {"type": "view"},
     {"type": "controller"},
-    {"type": "template"}
+    {"type": "template"},
+    {"type": "style"}
   ]
 }

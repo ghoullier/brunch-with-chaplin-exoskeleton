@@ -2,7 +2,7 @@
   "files": [
     {
       "from": "view.js.hbs",
-      "to": "app/views/{{name}}-view.js"
+      "to": "app/views/{{name}}/{{name}}-page-view.js"
     }
   ]
 }

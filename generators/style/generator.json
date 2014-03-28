@@ -2,7 +2,7 @@
   "files": [
     {
       "from": "style.scss.hbs",
-      "to": "app/views/styles/{{name}}.scss"
+      "to": "app/views/{{name}}/styles/{{name}}.scss"
     }
   ]
 }

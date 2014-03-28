@@ -25,6 +25,13 @@ Clone this repo manually with git or use `brunch new gh:ghoullier/brunch-with-ch
 
 ---------------
 
+## Scaffolting with scaffolt
+
+```sh
+npm install -g scaffolt
+```
+scaffolt allows you to automatize Model/View/Controller generation
+
 ## License
 The MIT license.
 

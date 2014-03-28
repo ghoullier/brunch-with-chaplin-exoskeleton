@@ -1,7 +1,9 @@
 {
   "files": [],
   "dependencies": [
+    {"type": "model"},
     {"type": "view"},
+    {"type": "controller"},
     {"type": "template", "parentPath": "{{parentPath}}/templates"}
   ]
 }
